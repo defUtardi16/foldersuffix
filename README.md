@@ -67,12 +67,12 @@ pip install customtkinter
 python main.py
 ```
 ### Requirements
-Python 3.8 or higher
-CustomTkinter (auto-installed)
-Supported Platforms
-✅ Windows 10/11
-✅ macOS 10.14+
-✅ Linux (with Tk support)
+Python 3.8 or higher<br>
+CustomTkinter (auto-installed)<br>
+Supported Platforms<br>
+✅ Windows 10/11<br>
+✅ macOS 10.14+<br>
+✅ Linux (with Tk support)<br>
 
 ### How It Works
 1. Scan directory tree (bottom-up)
@@ -83,5 +83,10 @@ Supported Platforms
    - If destination missing: simple rename
 5. Clean up empty source folders
 
+<div align="center">
+Made with ❤️ by Melisa Laura Utardi
 
+⭐ Star this repo if you find it useful!
+
+</div> ```
 
