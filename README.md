@@ -74,6 +74,14 @@ Supported Platforms<br>
 ✅ macOS 10.14+<br>
 ✅ Linux (with Tk support)<br>
 
+
+### Development Setup
+```
+git clone https://github.com/yourusername/folder-suffix-merger.git
+cd folder-suffix-merger
+pip install -e .
+
+```
 ### How It Works
 1. Scan directory tree (bottom-up)
 2. Identify folders ending with target suffix
@@ -88,5 +96,5 @@ Made with ❤️ by Melisa Laura Utardi
 
 ⭐ Star this repo if you find it useful!
 
-</div> ```
+</div>
 
