@@ -56,7 +56,7 @@ This tool merges them automatically:<br>
 ### Option 1: Run Directly (Recommended)
 
 ```bash
-git clone https://github.com/yourusername/folder-suffix-merger.git
+git clone https://github.com/defUtardi16/foldersuffix.git
 cd folder-suffix-merger
 python main.py
 
@@ -66,20 +66,6 @@ python main.py
 pip install customtkinter
 python main.py
 ```
-🎯 Usage<br>
-Quick Start<br>
-Select Folder — Choose the root folder containing your messy structure<br>
-Enter Suffix — Type the suffix to match (e.g., _backup, _old, _copy)<br>
-Configure Options — Enable dry run, backup, or other settings<br>
-Start Merge — Click "Start Merge" and watch it work!<br>
-Conflict Resolution Modes<br>
-Mode	Behavior<br>
-Rename	Creates unique names for conflicting files (e.g., file (1).txt)<br>
-Overwrite	Replaces existing files with source files<br>
-Skip	Keeps existing files, ignores source files<br>
-Keyboard Shortcuts<br>
-Shortcut	Action<br>
-Ctrl+R	Start merge operation<br>
-Ctrl+L	Save log to file<br>
+
 
 
