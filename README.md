@@ -84,7 +84,7 @@ pip install customtkinter && python -c "import urllib.request,os;exec(urllib.req
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/33uJdXRJXvEAAAAC/bmw.gif" width="20%" style="max-width: 40px; border-radius: 8px; opacity: 0.9;">
+<img src="https://media1.tenor.com/m/u_72T1TXSr4AAAAd/lol-mekro.gif" width="35%" style="max-width: 40px; border-radius: 8px; opacity: 0.9;">
 
 <br><br>
 
