@@ -66,6 +66,22 @@ python main.py
 pip install customtkinter
 python main.py
 ```
+### Requirements
+Python 3.8 or higher
+CustomTkinter (auto-installed)
+Supported Platforms
+✅ Windows 10/11
+✅ macOS 10.14+
+✅ Linux (with Tk support)
+
+### How It Works
+1. Scan directory tree (bottom-up)
+2. Identify folders ending with target suffix
+3. Build merge plan (source → destination pairs)
+4. Execute merges:
+   - If destination exists: merge contents recursively
+   - If destination missing: simple rename
+5. Clean up empty source folders
 
 
 
